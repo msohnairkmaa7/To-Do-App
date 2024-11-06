@@ -1,0 +1,15 @@
+registerPage: done
+register api : done
+
+similarly login: done
+
+session base auth : done 
+middleware to protect API : done
+
+Dashboard Page 
+logout API 
+logout from all device
+
+todo API's 
+create API;
+read api 
